@@ -1,0 +1,25 @@
+**Database Name: payroll_db**
+
+**Developed by Kingot**
+
+**Recommended PHP Version 5.6.3**
+
+
+**Admin's Login** 
+
+Username: admin
+Password: password
+
+
+**Manager Login**
+
+Username: manager
+Password: password
+
+**Employee Login**
+
+Username: johnwalker
+Password: password
+
+Username: appiah
+Password: password
